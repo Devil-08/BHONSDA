@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5492622271736'], 
-  ['5492622271736'] 
+  ['918010431346', 'Devil', true],
+  ['918055005094'], 
+  ['918055005094'] 
 ] //Numeros de owner 
 
-global.mods = ['573125484672'] 
-global.prems = ['50489079501', '5219631769130', '573125484672']
+global.mods = ['918010431346'] 
+global.prems = ['918010431346', '918055005094', '919823642839']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -27,7 +27,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = 'DyLux┃ᴮᴼᵀ' 
 global.author = '@fg98' 
-global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
+global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/pratapp_2714 \n' 
 global.dygp = 'https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU'
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
