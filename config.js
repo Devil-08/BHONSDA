@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['918010431346', 'Devil', true],
+  ['918010431346', '𝚸𝚪𝚫𝚻𝚫𝚸', true],
   ['918055005094'], 
   ['918055005094'] 
 ] //Numeros de owner 
@@ -25,7 +25,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Ghost' 
+global.packname = '𝐃𝚵𝛁𝚰𝐋' 
 global.author = 'pratap' 
 global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/pratapp_2714 \n' 
 global.dygp = 'https://chat.whatsapp.com'
