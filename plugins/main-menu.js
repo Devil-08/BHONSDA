@@ -36,7 +36,7 @@ const defaultMenu = {
 📈 Tiempo activo : %muptime
 ─────────────
 ▢ create your own bot👇🏻
-• https://youtu.be/xFqjKN1Qt80
+• https://youtu.com
 ▢ Owner🥵:
 • 𝛲𝑅𝛥𝑇𝛥𝛲
 ─────────────
@@ -152,7 +152,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp = './src/fg_logo.jpg'
      
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m, null, rpl)
-    /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff', pp, [
+    /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/pratapp_2714, pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ Grupos', `${_p}gpdylux`]
@@ -161,7 +161,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     m.react('📚') 
     
   } catch (e) {
-    conn.reply(m.chat, '❎ Lo sentimos, el menú tiene un error', m)
+    conn.reply(m.chat, '❎ Sorry, the menu has an error', m)
     throw e
   }
 }
