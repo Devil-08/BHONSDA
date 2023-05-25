@@ -52,27 +52,27 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *FG98*
+  *𝚸𝚪𝚫𝚻𝚫𝚸*
 ▢ Instagram :
-  • https://instagram.com/fg98_ff
+  • https://instagram.com/pratapp_2714 
 ▢ WhatsApp :
-  • (escribe solo si es necesario) 
+  • (salanghaeyo 🤭) 
 ▢ GitHub :
-  • https://github.com/FG98F
+  • https://github.com/Pratap0707 
 ▢ Telegram : 
   • t.me/fgsupp_bot (FG) 
   • t.me/fg98ff (canal)
   • t.me/fgawgp (grupo)
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://youtube.com/
   
  *≡ HELPERS*
   *CRISS*
-▢ Instagram : https://www.instagram.com/sayurizuniga3
+▢ Instagram : https://www.instagram.com/pratapp_2714 
 ▢ WhatsApp : wa.me/
   *ANDREA*
 ▢ Instagram : https://
-▢ WhatsApp : wa.me/573125484672
+▢ WhatsApp : wa.me/918010431346
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
