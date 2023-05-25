@@ -16,7 +16,7 @@ export async function before(m, {conn, isAdmin, isBotAdmin }) {
         }
         await conn.reply(m.chat, `*≡ Enlace Detectado*
             
-No permitimos enlaces de otros grupos 
+We do not allow links from other groups 
 lo siento *@${m.sender.split('@')[0]}*  serás expulsado del grupo ${isBotAdmin ? '' : '\n\nNo soy admin así que no te puedo expulsar :"v'}`, null, { mentions: [m.sender] } )
         if (isBotAdmin && chat.antiLink) {
         	await conn.sendMessage(m.chat, { delete: m.key })
