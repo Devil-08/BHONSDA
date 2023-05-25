@@ -4,10 +4,10 @@ import fetch from 'node-fetch'
 let handler = async function (m, { conn, text, usedPrefix }) {
   
 let m2 = `
-≡ _Use estos comandos sin el prefijo_
+≡ _Use these commands without the prefix_
 
-▢ Si tienes más  audios   
-envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
+▢ If you have more audio   
+send me by t.me/fgsupp_bot the *audio + command* with which it will respond
 
 ┌─⊷ *AUDIOS* 
 ▢ Bot
