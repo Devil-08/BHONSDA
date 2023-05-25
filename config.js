@@ -41,6 +41,12 @@ global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
+// Greeting messages
+global.greet1 = "Good morning ☀️" // after 3 AM
+global.greet2 = "Good afternoon 🏜️" // after 12 PM
+global.greet3 = "Good evening 🌆" // after 4 PM
+global.greet4 = "Good night 😴" // after 8:30 PM
+
 global.multiplier = 69 
 global.maxwarn = '2' // máxima advertencias
 
