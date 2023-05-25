@@ -35,10 +35,10 @@ global.fgpyp = 'salanghaeyo ♥️'
 global.fglog = 'https://i.imgur.com/Owmb93c.png' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.rwait = '*⌛```「▰▰▰▱▱▱▱▱▱▱」Loading...```*'
 global.dmoji = '🤭'
 global.done = '✅'
-global.error = '❌' 
+global.error = '*❌```404 Error```*' 
 global.xmoji = '🔥' 
 
 // Greeting messages
