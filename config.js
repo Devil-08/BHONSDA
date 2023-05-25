@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['918010431346', '𝚸𝚪𝚫𝚻𝚫𝚸', true],
-  ['918055005094'], 
-  ['918055005094'] 
+  ['918010431346','𝚸𝚪𝚫𝚻𝚫𝚸', true],
+  ['918055005094','BaBy','true'], 
+  [''] 
 ] //Numeros de owner 
 
 global.mods = ['918010431346'] 
-global.prems = ['918010431346', '918055005094', '919823642839']
+global.prems = ['918010431346','918055005094']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -30,8 +30,8 @@ global.author = 'pratap'
 global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/pratapp_2714 \n' 
 global.dygp = 'https://chat.whatsapp.com'
 global.fgsc = 'https://github.com/Pratap0707/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
+global.fgyt = 'https://youtube.com'
+global.fgpyp = 'salanghaeyo ♥️'
 global.fglog = 'https://i.imgur.com/Owmb93c.png' 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
