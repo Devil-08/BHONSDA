@@ -7,7 +7,7 @@ let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.js
 m.reply(`
 *≡ SCRIPT*
 
-▢ Git : ${_package.homepage}
+▢ Git : ['*contact with my owner 😚❤️*']
 `.trim())
     
 }
