@@ -39,7 +39,8 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:fgmods/baileys",
+        "@adiwajshing/baileys": "npm:baileys-md@5.0.5",
+        "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
         "awesome-phonenumber": "^3.4.0",
         "axios": "^1.1.2",
@@ -81,7 +82,7 @@
         "didyoumean": "^1.2.2",
         "fg-ig": "^0.0.4",
         "api-dylux": "^1.4.4",
-        "@vitalets/google-translate-api": "^8.0.0",
+        "@vitalets/google-translate-api": "^9.2.0",
         "openai": "^3.1.0",
         "yargs": "^17.6.0" 
     },
